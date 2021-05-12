@@ -12,5 +12,4 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+安全安心価値創造研究所は，「安全安心な社会の実現に繋がる価値創造」の研究の集約と情報公開を主な目的としています。
